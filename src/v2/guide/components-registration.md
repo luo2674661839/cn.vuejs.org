@@ -66,6 +66,7 @@ new Vue({ el: '#app' })
   <component-b></component-b>
   <component-c></component-c>
 </div>
+123
 ```
 
 在所有子组件中也是如此，也就是说这三个组件*在各自内部*也都可以相互使用。
